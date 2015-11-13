@@ -43,3 +43,7 @@ body {
     border-left-style: solid;
     border-left-color: #ddd;
 }
+
+p {
+    font-size:1.4em;
+}
