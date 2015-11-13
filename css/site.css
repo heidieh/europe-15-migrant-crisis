@@ -1,0 +1,45 @@
+body {
+    background-color:#f3f3f3;
+}
+
+.titledesc{
+    font-size:1.2em;
+    color: #777;
+}
+
+.title{
+    font-size:2.5em;
+}
+
+.spacer {
+    margin-top:30px;
+}
+
+.border{
+    border-width:1px;
+    border-style: solid;
+    border-color: #000;
+}
+
+.statement {
+    font-size:1.6em;
+    color: #777;
+}
+
+.topic {
+    border-top-width:1px;
+    border-top-style: solid;
+    border-top-color: #ddd;
+    padding-top:20px;
+    min-height:160px;
+}
+
+.topic:hover {
+    background-color:#f8f8f8;
+}
+
+.leftline {
+    border-left-width:1px;
+    border-left-style: solid;
+    border-left-color: #ddd;
+}
