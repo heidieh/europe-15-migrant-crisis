@@ -1,5 +1,6 @@
 body {
-    background-color:#f3f3f3;
+	background-color:#ffffff; 
+    /* background-color:#f3f3f3; */
 }
 
 .titledesc{
@@ -8,11 +9,15 @@ body {
 }
 
 .title{
-    font-size:2.5em;
+    font-size:2.4em;
 }
 
 .spacer {
     margin-top:30px;
+}
+
+.spacer-md {
+    margin-top:20px;
 }
 
 .border{
@@ -24,6 +29,11 @@ body {
 .statement {
     font-size:1.6em;
     color: #777;
+}
+
+.statement_sub {
+    font-size:1.2em;
+    color: #000;
 }
 
 .topic {
