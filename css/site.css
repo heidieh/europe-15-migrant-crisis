@@ -37,9 +37,15 @@ body {
 }
 
 .topic {
+	margin-top: 30px;
     border-top-width:1px;
     border-top-style: solid;
     border-top-color: #ddd;
+    padding-top:20px;
+    min-height:160px;
+}
+
+.cont {
     padding-top:20px;
     min-height:160px;
 }
@@ -48,15 +54,27 @@ body {
     background-color:#f8f8f8;
 }
 
+.cont:hover {
+    background-color:#f8f8f8;
+}
+
+.footer {
+	margin-top: 30px;
+	margin-bottom: 50px;
+    border-top-width:1px;
+    border-top-style: solid;
+    border-top-color: #ddd;
+}
+
 .leftline {
     border-left-width:1px;
     border-left-style: solid;
     border-left-color: #ddd;
 }
 
-p {
+/* p {
     font-size:1.4em;
-}
+} */
 
 .thumb_text {
 	margin-top: 10px;
