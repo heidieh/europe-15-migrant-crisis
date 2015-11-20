@@ -1,6 +1,11 @@
 body {
-	background-color:#ffffff; 
-    /* background-color:#f3f3f3; */
+	/* background-color:#ffffff; 
+    background-color:#f3f3f3; */
+	background-image: url("background.png");
+	background-size: 100%;
+	background-position: 0% 70%;
+	background-repeat: repeat-y;
+	background-attachment: fixed;
 }
 
 .titledesc{
