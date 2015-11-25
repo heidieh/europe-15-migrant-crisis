@@ -36,6 +36,10 @@ body {
     color: #777;
 }
 
+.thumb {
+	overflow: hidden;
+}
+
 .statement_sub {
     font-size:1.2em;
     color: #000;
